@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.submit {
+  background-color: #08d;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #64ffda!important;
+  cursor: pointer;
+  font-size: 18px;
+  height: 50px;
+  margin-top: 20px;
+  outline: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.font {
+  font-family: 'Roboto Mono', monospace;
+  color: #ccd6f6!important;
+}
+
+.bold {
+  font-weight: bolder;
+  font-size: 80px;
+}
+
+.nav-right {
+  float: right;
+}
+
+a {
+  text-decoration: none!important;
+  color: #6c757d!important;
+}
+
+.highlight {
+  color: #64ffda!important;
+}
+
+.button {
+  background-color: #0a192f!important;
+  border: 2px solid #64ffda!important;
+  color: white;
+  padding: 12px 28px;
+  margin-top: 10px;
+}
+
