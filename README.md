@@ -1,3 +1,23 @@
+# React Portfolio
+
+ ### Description
+ This portfolio was created using react and showcases my progress in the full stack bootcamp.
+ 
+ ### Link
+ [View Website](https://meganann201.github.io/react-portfolio/#home)
+ ![](https://i.imgur.com/cLKw1JO.png)
+ 
+ <h1 align="center">Hi 👋, I'm Megan</h1>
+<h3 align="center">A passionate full stack software engineer based in Florida.</h3>
+
+- 🔭 I’m currently working on [my first portfolio](https://meganann201.github.io/portfolio/)
+
+- 🌱 I’m currently learning **Advanced CSS and JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://meganann201.github.io/portfolio/](https://meganann201.github.io/portfolio/)
+
+- 📫 How to reach me **megancampbell201@gmail.com**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
