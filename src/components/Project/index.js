@@ -10,6 +10,7 @@ function Project(props) {
         <h5 className="card-title text-dark">{props.name}</h5>
         <p className="card-text text-secondary">{props.description}</p>
         <a href={props.link}><button className='button'>View Website</button></a>
+        <a href={props.repo}><button className='button'>View Repo</button></a>
         </div>
         </div>
       </div>
